@@ -1,0 +1,279 @@
+﻿.blog-post .dlab-media img, .blog-post .dlab-post-media img {
+    height: 300px;
+}
+
+header .item {
+    height: 80vh;
+    position: relative;
+}
+
+    header .item img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    header .item .cover {
+        padding: 75px 0;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(0, 0, 0, 0.6);
+        display: flex;
+        align-items: center;
+    }
+
+        header .item .cover .header-content {
+            position: relative;
+            padding: 56px;
+            overflow: hidden;
+        }
+
+            header .item .cover .header-content .line {
+                content: "";
+                display: inline-block;
+                width: 100%;
+                height: 100%;
+                left: 0;
+                top: 0;
+                position: absolute;
+                border: 9px solid #fff;
+                -webkit-clip-path: polygon(0 0, 60% 0, 36% 100%, 0 100%);
+                clip-path: polygon(0 0, 60% 0, 36% 100%, 0 100%);
+            }
+
+            header .item .cover .header-content h2 {
+                font-weight: 300;
+                font-size: 35px;
+                color: #fff;
+            }
+
+            header .item .cover .header-content h1 {
+                font-size: 56px;
+                font-weight: 600;
+                margin: 5px 0 20px;
+                word-spacing: 3px;
+                color: #fff;
+            }
+
+            header .item .cover .header-content h4 {
+                font-size: 24px;
+                font-weight: 300;
+                line-height: 36px;
+                color: #fff;
+            }
+
+header .owl-item.active h1 {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    animation-name: fadeInDown;
+    animation-delay: 0.3s;
+}
+
+header .owl-item.active h2 {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    animation-name: fadeInDown;
+    animation-delay: 0.3s;
+}
+
+header .owl-item.active h4 {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    animation-name: fadeInUp;
+    animation-delay: 0.3s;
+}
+
+header .owl-item.active .line {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    animation-name: fadeInLeft;
+    animation-delay: 0.3s;
+}
+
+header .owl-nav .owl-prev {
+    position: absolute;
+    left: 15px;
+    top: 43%;
+    opacity: 0;
+    -webkit-transition: all 0.4s ease-out;
+    transition: all 0.4s ease-out;
+    background: rgba(0, 0, 0, 0.5) !important;
+    width: 40px;
+    cursor: pointer;
+    height: 40px;
+    position: absolute;
+    display: block;
+    z-index: 1000;
+    border-radius: 0;
+}
+
+    header .owl-nav .owl-prev span {
+        font-size: 1.6875rem;
+        color: #fff;
+    }
+
+    header .owl-nav .owl-prev:focus {
+        outline: 0;
+    }
+
+    header .owl-nav .owl-prev:hover {
+        background: #000 !important;
+    }
+
+header .owl-nav .owl-next {
+    position: absolute;
+    right: 15px;
+    top: 43%;
+    opacity: 0;
+    -webkit-transition: all 0.4s ease-out;
+    transition: all 0.4s ease-out;
+    background: rgba(0, 0, 0, 0.5) !important;
+    width: 40px;
+    cursor: pointer;
+    height: 40px;
+    position: absolute;
+    display: block;
+    z-index: 1000;
+    border-radius: 0;
+}
+
+    header .owl-nav .owl-next span {
+        font-size: 1.6875rem;
+        color: #fff;
+    }
+
+    header .owl-nav .owl-next:focus {
+        outline: 0;
+    }
+
+    header .owl-nav .owl-next:hover {
+        background: #000 !important;
+    }
+
+header:hover .owl-prev {
+    left: 0px;
+    opacity: 1;
+}
+
+header:hover .owl-next {
+    right: 0px;
+    opacity: 1;
+}
+
+.header-content a {
+    position: absolute !important;
+    z-index: 99999 !important;
+}
+
+.service-media-bx .dlab-info {
+    height: 260px;
+}
+/*
+header .item img {
+    height: 604px !important;
+    min-height: 604px;
+    max-height: 604px;
+}*/
+
+@media (min: 767px) and (max-width: 1100px) {
+
+
+    header .item {
+        min-height: 190px !important;
+        height: 190px !important;
+        position: relative;
+    }
+
+        header .item img {
+            height: 190px !important;
+            min-height: 190px;
+            max-height: 190px;
+        }
+}
+
+@media only screen and (max-width: 767px) {
+
+    .owl-carousel .owl-item .client-logo img {
+        object-fit: contain;
+    }
+    .service-media-bx .dlab-info {
+        height: auto;
+    }
+
+    .header-content a {
+        position: absolute !important;
+        z-index: 99999 !important;
+    }
+
+    .header-content h2 {
+        font-size: 22px !important;
+        margin-bottom: 5px !important;
+        line-height: 25px !important;
+    }
+
+    .header-content h4 {
+        font-size: 17px !important;
+        margin-bottom: 5px !important;
+    }
+
+    header .item {
+        min-height: 190px !important;
+        height: 190px !important;
+        position: relative;
+    }
+
+        header .item img {
+            height: 190px !important;
+            min-height: 190px;
+            max-height: 190px;
+        }
+
+    .text-image-carousel {
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        top: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 30px;
+        line-height: 100%;
+        color: #FFFFFF;
+        text-align: center;
+        background: #00000099;
+        font-weight: 600;
+    }
+
+    .bg-image-carousel {
+        min-height: 190px;
+        max-height: 190px;
+        position: absolute;
+        width: 100%;
+    }
+}
+
+@media(max-width:600px) {
+    .home-demo {
+        display: inline-block;
+        width: 100%;
+    }
+}
+@media (min-width: 768px) and (max-width: 990px) {
+    header .item {
+        height: 290px !important;
+        min-height: 290px;
+        max-height: 290px;
+    }
+}

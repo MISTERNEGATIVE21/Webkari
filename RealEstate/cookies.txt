@@ -1,0 +1,23 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.primerealtors.in	TRUE	/	FALSE	1999999999	.AspNetCore.Session	CfDJ8HwlyExhZf9KpuybtXm1Z%2Fk8MXPQGGX%2FYL3HtfMfb2pdNM5EBqQ8zS7k%2B%2B9R0fA2bal8v3ahP7RPaOp9XcYXdsGmC4IdM6t8RyOsamiHHxJRz13eJXp%2BHMtfgBisEyJrKxnzowbS5OWCYTLkv5dL%2BqFp5b8Bg6JKY0OFwMEs969b
+cdngeneralcf.rentcafe.com	TRUE	/	FALSE	1999999999	SameSite	None
+proppertee.com	TRUE	/	FALSE	1999999999	cookielawinfo-checkbox-necessary	yes
+proppertee.com	TRUE	/	FALSE	1999999999	cookielawinfo-checkbox-non-necessary	yes
+proppertee.com	TRUE	/	FALSE	1999999999	PHPSESSID	248fa38ab13b8538fadb17275815f7a1
+www.primerealtors.in	TRUE	/	FALSE	1999999999	.AspNetCore.Antiforgery.exFFhepdtPw	CfDJ8HwlyExhZf9KpuybtXm1Z_llKPofwt2bwenJFJc9A3UM-dAhpKollO_J5enxhVqQ084CuQD-xa6bujYv1DZ5t3IJkzI8gFbGDiuVvxEuUSpb7mq5AnB1ZCJESgt9fIf9ut1GumzoDWBtVk3iVzpGiCI
+www.primerealtors.in	TRUE	/	FALSE	1999999999	samesite	lax
+www.socialkit.co.in	TRUE	/	FALSE	1999999999	.AspNetCore.Session	CfDJ8OvXBgJIWlZBr9CcBXzMoMPJnfU%2F%2FgMopv66qFkv6qIcsfYj6vQi4eukmatHw5x8GIx2lubihJn5kTvCJa94vwpTrm91HIqyowl38MsIqv3LZobMv9r9n0N8I1cs9P%2FiniJd7GGH62YaQD5XzFVnvd%2Fouzj99289IM5o7AMiQ8KY
+www.socialkit.co.in	TRUE	/	FALSE	1999999999	samesite	lax
+.answers.morgan-properties.com.pagescdn.com	TRUE	/	FALSE	1999999999	__cf_bm	.mzTax1254AL.7PdZRtMrKp7UVbsdpqxLoKlSx2Tc9w-1717772116-1.0.1.1-LAlrqF5tl1cw9rxUjyno7W1dyLzO3Zkg9F6IB6djyjsNHYXGL4lA_8xV_G4rsC4f.4.rChKPfVNf5fcJgokkmQ
+answers.morgan-properties.com.pagescdn.com	TRUE	/	FALSE	1999999999	SameSite	None
+.sitescdn.net	TRUE	/	FALSE	1999999999	__cf_bm	hFKAscnaO8hvFdDzNcXqU2ivguafERLwzAYX0vEN2bU-1717774686-1.0.1.1-EfLWqqXOztF1_XTzbb5rmKC19R2_uWWDf7tlsNf47qcUzC9puxLq6xyAn8vqOABsayDjvQn5.Q2b8LZpkyjj_A
+assets.sitescdn.net	TRUE	/	FALSE	1999999999	SameSite	None
+.rentcafe.com	TRUE	/	FALSE	1999999999	__cf_bm	ZVzX9o.RCWT4I0NzTqrUlwOaLfasR1zTN4CWpA8u5J0-1717774732-1.0.1.1-RiQpVV53ZjY7j4K_xJRGBHCvRNr4zaDdugsq1wkrBzKnz24dxDgdqNk_o8Qlx6LsXr2sgxH3OqOgxfrtMuvGqQ
+t.rentcafe.com	TRUE	/	FALSE	1999999999	SameSite	None
+salahkaarrealtors.com	TRUE	/	FALSE	1999999999	PHPSESSID	rnhq86csl5nq9d14q63ge88pin
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	zYol_.0cRuMeZb8hQvflo1KYE54roeNidETzIoCPkFs-1717778388-1.0.1.1-lEwSV8fHv7fd4x0NIAnAZyDdVJhBCluj_z3k8xwj0GA_Az9pSsfP3AulRIeyIi2mP.A8jIV5JUgA6swdkOa3Tg
+.vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	.PclRxIQMpsT3DpxkV58J9wtbbQc.fTGbhAyLTTHk2I-1717778388889-0.0.1.1-604800000
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+salahkaarrealtors.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+

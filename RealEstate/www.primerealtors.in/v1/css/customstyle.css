@@ -1,0 +1,9 @@
+﻿.logo-header img {
+    max-height:69px !important;
+}
+@media only screen and (max-width: 767px) {
+    .logo-header img {
+        max-height: 50px !important;
+        width: auto !important;
+    }
+}

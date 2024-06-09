@@ -1,0 +1,8 @@
+-qiC1%Ps2u1%s%uN0%I0p3DaK0c8H0%kf2A250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.royalerealtorsindia.com/ https://dreamfillers.in/ https://drrealty.in/ https://www.morgan-properties.com/ https://esconinfrarealtor.com/ https://kabirarealty.com/ https://salahkaarrealtors.com/ https://www.aarambhrealtors.in/ https://proppertee.com/ https://www.kdrealtors.com/projects/ https://www.primerealtors.in/ https://siyamountrealtors.com/ https://sumiramsairealtors.com/ -O1 "C:\My Web Sites\RealEstate" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+File generated automatically on Fri, 07 Jun 2024 22:04:45, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
